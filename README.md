@@ -1,6 +1,6 @@
 # All Restaurants in Columbus (Metro), GA-AL, US
 
-> Free BeamStation sample export with 83 rows and masked direct-contact fields.
+> Free BeamStation sample export with 51 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `126792` |
 | Location | Columbus, GA-AL |
 | Category | Restaurants |
-| Full dataset size | 835 records |
-| Free sample size | 83 records (9.94%) |
-| Last export | 2026-04-14T20:10:51.040513+00:00 |
+| Full dataset size | 511 records |
+| Free sample size | 51 records (9.98%) |
+| Last export | 2026-04-21T22:13:30.924261+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-columbus-metro-ga-al-us-sample-126792/releases/download/sample-latest/beamstation_126792_restaurants-us-columbusgaal_SAMPLE_DIST.csv) |
 
 ## What is in this sample
