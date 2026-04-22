@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2c19230f-38bb-4c22-9596-2a3e385df510",
+  "export_job_id": "2828933a-8799-4b9d-8ec2-79d5f20b055c",
   "id_short": 126792,
-  "published_at": "2026-04-18T07:25:00Z",
+  "published_at": "2026-04-22T07:06:16Z",
   "repo_name": "all-restaurants-in-columbus-metro-ga-al-us-sample-126792",
   "sample_asset_name": "beamstation_126792_restaurants-us-columbusgaal_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/126792/beamstation_126792_restaurants-us-columbusgaal_SAMPLE_DIST.csv",
-  "sample_records": 83,
-  "sample_sha256": "27b101a196bddd88458f0f8af1c765f4bdb42ed1f7ed67a2d89c3b50233c5775",
-  "sample_size_bytes": 299223,
-  "total_records": 835
+  "sample_records": 51,
+  "sample_sha256": "1c439ee59560b2f971f76b4ba6cfdff45fbc147c5a67e25d97316df8c6ad4b93",
+  "sample_size_bytes": 202635,
+  "total_records": 511
 }
